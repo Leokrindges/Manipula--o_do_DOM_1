@@ -1,0 +1,15 @@
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+.buttonMudaTexto {
+    background-color: blanchedalmond;
+    border: 1px solid blanchedalmond;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+}
+div, a {
+    margin: 10px;
+}
